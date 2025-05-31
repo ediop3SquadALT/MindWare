@@ -22,6 +22,7 @@ Component	Install/Enable
 ✅ GUI session (not RDP)	For cursor/key/dialog features
 
 OS/ version needed:
+
 Windows 10 Pro (64-bit)
 Version: 1903 – 21H2
 
